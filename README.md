@@ -1,5 +1,5 @@
 # alx-frontend-javascript
-<br>
+
 ## Projects
 
 All of the following folders are projects done during the studies:
