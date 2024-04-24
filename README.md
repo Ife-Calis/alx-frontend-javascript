@@ -1,1 +1,1 @@
-# Alx-frontend-Javascript.
+# Alx-frontend-Javascript
